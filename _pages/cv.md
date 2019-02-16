@@ -11,31 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Biological Engineering, *Massachusetts Institute of Technology*, 2022 (expected)
-* B.S. in Biomedical Engineering, *University of Arizona*, 2016
-* Frontiers in Plant Science, *Cold Spring Harbor Laboratory*, 2018
+* Ph.D in Biological Engineering, **Massachusetts Institute of Technology**, 2022 (expected)
+* B.S. in Biomedical Engineering, **University of Arizona**, 2016
+* Frontiers in Plant Science, **Cold Spring Harbor Laboratory**, 2018
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**The Biomolecular Materials Group at MIT & Voigt Lab**
+  * 2017 - present 
+  * Engineering plant-microbe communication for environmental sensors
+  * Supervisors: Angela Belcher & Christopher Voigt
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Biosensors Lab**
+  * Aug 2014 - June 2016 
+  * Emulsion LAMP
+  * Supervisor: Jeong-Yeol Yoon
+
+**NSF Research Experience for Undergraduates**
+  * May 2015 - Aug 2015
+  * Rapid molecular diagnositcs for Ebola using interfacial effects
+  * Supervisors: Jeong-Yeol Yoon & David Galbraith
+
+**Ventana Medical Systems Design Project**
+  * Aug 2015 - May 2016
+  * Design and construction of refractometer for non-invasive measurement of buffer concentrations
+  * Raytheon Award for Best Overall Design 
+  * Supervisors: Ventana Medical Systems
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -56,4 +58,14 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
+
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
