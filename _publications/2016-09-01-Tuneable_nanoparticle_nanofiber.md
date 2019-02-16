@@ -12,4 +12,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://tylertoth.github.io/files/2016-09-01_Tuneable_nanoparticle_nanofiber.pdf)
 
-Recommended citation: Nicolini, AM. Toth, TD. Yoon, JY. (2016). "Tuneable nanoparticle-nanofiber composite substrate for improved cellular adhesion" <i>Colloids and Surfaces B: Biointerfaces</i>.
+Recommended citation: Nicolini, AM. **Toth, TD.** Yoon, JY. (2016). "Tuneable nanoparticle-nanofiber composite substrate for improved cellular adhesion" <i>Colloids and Surfaces B: Biointerfaces</i>.
