@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biomedical Engineering, University of Arizona, 2016
-* Ph.D in Biological Engineering, Massachusetts Institute of Technology, 2022 (expected)
+* Ph.D in Biological Engineering, *Massachusetts Institute of Technology*, 2022 (expected)
+* B.S. in Biomedical Engineering, *University of Arizona*, 2016
+* Frontiers in Plant Science, *Cold Spring Harbor Laboratory*, 2018
 
 Work experience
 ======
