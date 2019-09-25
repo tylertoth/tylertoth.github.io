@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Engineering plant-microbe communication for synthetic symbiosis"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
