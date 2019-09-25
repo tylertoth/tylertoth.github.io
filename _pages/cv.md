@@ -19,23 +19,24 @@ Research experience
 ======
 **The Biomolecular Materials Group at MIT & Voigt Lab**
   * 2017 - present 
-  * Engineering plant-microbe communication for environmental sensors
+  * 
   * Supervisors: Angela Belcher & Christopher Voigt
 
 **Biosensors Lab**
   * Aug 2014 - June 2016 
-  * Emulsion LAMP
+  * Designed, fabricated, and programmed a point-of-care eumulsion-PCR-based device with novel detection technique
+  * Discovered new method for controlling electrospun nanofiber diameter, surface morphology, and functional groups to facilitate cellular adhesion for tissue engineering applications
   * Supervisor: Jeong-Yeol Yoon
 
 **NSF Research Experience for Undergraduates**
   * May 2015 - Aug 2015
-  * Rapid molecular diagnositcs for Ebola using interfacial effects
+  * Designed novel, rapid molecular diagnositcs for Ebola using interfacial effects
   * Supervisors: Jeong-Yeol Yoon & David Galbraith
 
 **Ventana Medical Systems Design Project**
   * Aug 2015 - May 2016
-  * Design and construction of refractometer for non-invasive measurement of buffer concentrations
-  * Raytheon Award for Best Overall Design 
+  * Design and fabrication of refractometer for non-invasive measurement of buffer concentrations
+  * Raytheon Award for Best Overall Design ($2,000) 
   * Supervisors: Ventana Medical Systems
   
 Publications
@@ -43,6 +44,8 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  Ariana M. Nicolini, **Tyler D. Toth** and Jeong-Yeol Yoon, "Tuneable Nanoparticle-Nanofiber Composite Substrate for Improved Cellular Adhesion," Colloids and Surfaces B: Biointerfaces, 2016, 145: 830-838.
+  Ariana M. Nicolini, **Tyler D. Toth**, Samuel Y. Kim, M. Alejandra Mandel, David W. Galbraith and Jeong-Yeol Yoon, "Mie Scatter and Interfacial Tension Based Real-Time Quantification of Colloidal Emulsion Nucleic Acid Amplification," Advanced Biosystems, 2017, 1(10): 1700098.
   
 Talks
 ======
