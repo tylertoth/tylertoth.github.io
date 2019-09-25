@@ -46,13 +46,7 @@ Min-Hyung Ryu , Jing Zhang , **Tyler Toth** , Devanshi Khokhani , Barney Geddes 
 Ariana M. Nicolini, **Tyler D. Toth**, Samuel Y. Kim, M. Alejandra Mandel, David W. Galbraith and Jeong-Yeol Yoon, "Mie Scatter and Interfacial Tension Based Real-Time Quantification of Colloidal Emulsion Nucleic Acid Amplification," Advanced Biosystems, 2017, 1(10): 1700098.
 
 Ariana M. Nicolini, **Tyler D. Toth** and Jeong-Yeol Yoon, "Tuneable Nanoparticle-Nanofiber Composite Substrate for Improved Cellular Adhesion," Colloids and Surfaces B: Biointerfaces, 2016, 145: 830-838.
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -61,14 +55,8 @@ Teaching
   
 Service and leadership
 ======
-* 
+**MIT Biological Engineering Communication Lab Fellow**
+[Website](https://mitcommlab.mit.edu/be/ "BE Communication Lab")
+* Provide one-on-one peer-coaching on the best-practices of scientific communication
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
