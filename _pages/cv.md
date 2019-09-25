@@ -56,7 +56,7 @@ Teaching
 Service and leadership
 ======
 **MIT Biological Engineering Communication Lab Fellow**
-[Website](https://mitcommlab.mit.edu/be/ "BE Communication Lab")
 * Provide one-on-one peer-coaching on the best-practices of scientific communication
+[Learn more](https://mitcommlab.mit.edu/be/ "BE Communication Lab")
 
 
