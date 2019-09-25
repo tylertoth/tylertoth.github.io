@@ -41,9 +41,11 @@ Research experience
   
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> 
+Min-Hyung Ryu , Jing Zhang , **Tyler Toth** , Devanshi Khokhani , Barney Geddes , Florence Mus , Amaya Garcia Costas , John Peters , Philip Poole , Jean-Michel Ané, and Christopher Voigt, "Control of nitrogen fixation in bacteria that associate with cereals," 2019, In submission.
+
+Ariana M. Nicolini, **Tyler D. Toth**, Samuel Y. Kim, M. Alejandra Mandel, David W. Galbraith and Jeong-Yeol Yoon, "Mie Scatter and Interfacial Tension Based Real-Time Quantification of Colloidal Emulsion Nucleic Acid Amplification," Advanced Biosystems, 2017, 1(10): 1700098.
+
+Ariana M. Nicolini, **Tyler D. Toth** and Jeong-Yeol Yoon, "Tuneable Nanoparticle-Nanofiber Composite Substrate for Improved Cellular Adhesion," Colloids and Surfaces B: Biointerfaces, 2016, 145: 830-838.
   
 Talks
 ======
