@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tyler Toth | MIT BE"
+title                    : "Tyler Toth"
 title_separator          : "-"
 name                     : &name "Tyler Toth"
 description              : &description "description"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Tyler Toth"
   avatar           : "profile_3.png"
-  bio              : "PhD Candidate in Biological Engineering at MIT"
+  bio              : "PhD Candidate | MIT Biological Engineering"
   location         : "Cambridge, MA"
-  employer         : "[Voigt](http://web.mit.edu/voigtlab/) & Belcher Labs"
+  employer         : "Voigt & Belcher Labs"
   googlescholar    : "https://scholar.google.com/citations?user=6AUWf_8AAAAJ&hl=en&oi=ao"
   email            : "ttoth@mit.edu"
   researchgate     : 
