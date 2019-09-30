@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Tyler Toth"
   avatar           : "profile_3.png"
-  bio              : "PhD student in Biological Engineering at MIT"
+  bio              : "PhD Candidate in Biological Engineering at MIT"
   location         : "Cambridge, MA"
-  employer         : "Voigt & Belcher Labs"
+  employer         : "[Voigt](http://web.mit.edu/voigtlab/) & Belcher Labs"
   googlescholar    : "https://scholar.google.com/citations?user=6AUWf_8AAAAJ&hl=en&oi=ao"
   email            : "ttoth@mit.edu"
   researchgate     : 
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tylertoth"
+  github           : #"tylertoth"
   google_plus      :
   keybase          :
   instagram        :
