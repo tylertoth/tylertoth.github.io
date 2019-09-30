@@ -20,7 +20,7 @@ Research Experience
 ======
 **MIT - The Biomolecular Materials Group at MIT & Voigt Lab**
   * 2017 - present 
-  * 
+  * Engineering plant-microbe communication for synthetic symbiosis
   * Supervisors: Angela Belcher & Christopher Voigt
 
 **University of Arizona - Biosensors Lab**
