@@ -9,20 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * Ph.D in Biological Engineering, **Massachusetts Institute of Technology**, 2022 (expected)
 * B.S. in Biomedical Engineering, **University of Arizona**, 2016
 * Frontiers in Plant Science, **Cold Spring Harbor Laboratory**, 2018
 
-Research experience
+Research Experience
 ======
-**The Biomolecular Materials Group at MIT & Voigt Lab**
+**MIT - The Biomolecular Materials Group at MIT & Voigt Lab**
   * 2017 - present 
   * 
   * Supervisors: Angela Belcher & Christopher Voigt
 
-**Biosensors Lab**
+**University of Arizona - Biosensors Lab**
   * Aug 2014 - June 2016 
   * Designed, fabricated, and programmed a point-of-care eumulsion-PCR-based device with novel detection technique
   * Discovered new method for controlling electrospun nanofiber diameter, surface morphology, and functional groups to facilitate cellular adhesion for tissue engineering applications
@@ -46,14 +47,8 @@ Min-Hyung Ryu , Jing Zhang , **Tyler Toth** , Devanshi Khokhani , Barney Geddes 
 Ariana M. Nicolini, **Tyler D. Toth**, Samuel Y. Kim, M. Alejandra Mandel, David W. Galbraith and Jeong-Yeol Yoon, "Mie Scatter and Interfacial Tension Based Real-Time Quantification of Colloidal Emulsion Nucleic Acid Amplification," Advanced Biosystems, 2017, 1(10): 1700098.
 
 Ariana M. Nicolini, **Tyler D. Toth** and Jeong-Yeol Yoon, "Tuneable Nanoparticle-Nanofiber Composite Substrate for Improved Cellular Adhesion," Colloids and Surfaces B: Biointerfaces, 2016, 145: 830-838.
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
+Campus & Community Involvement  
 ======
 **MIT Biological Engineering Communication Lab Fellow**
 * Provide one-on-one peer-coaching on the best-practices of scientific communication
